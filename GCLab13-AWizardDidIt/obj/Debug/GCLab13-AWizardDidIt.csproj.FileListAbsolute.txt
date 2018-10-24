@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\GCLab13-AWizardDidIt\GCLab13-AWizardDidIt\bin\Debug\GCLab13-AWizardDidIt.exe.config
+C:\Users\mhilty\source\repos\GCLab13-AWizardDidIt\GCLab13-AWizardDidIt\bin\Debug\GCLab13-AWizardDidIt.exe
+C:\Users\mhilty\source\repos\GCLab13-AWizardDidIt\GCLab13-AWizardDidIt\bin\Debug\GCLab13-AWizardDidIt.pdb
+C:\Users\mhilty\source\repos\GCLab13-AWizardDidIt\GCLab13-AWizardDidIt\obj\Debug\GCLab13-AWizardDidIt.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\GCLab13-AWizardDidIt\GCLab13-AWizardDidIt\obj\Debug\GCLab13-AWizardDidIt.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\GCLab13-AWizardDidIt\GCLab13-AWizardDidIt\obj\Debug\GCLab13-AWizardDidIt.exe
+C:\Users\mhilty\source\repos\GCLab13-AWizardDidIt\GCLab13-AWizardDidIt\obj\Debug\GCLab13-AWizardDidIt.pdb
